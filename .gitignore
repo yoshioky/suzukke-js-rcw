@@ -1,0 +1,7 @@
+/Recipe/*.filters
+/Recipe/*.opensdf
+/Recipe/*.sdf
+/Recipe/*.suo
+/Recipe/ipch
+/Recipe/Debug
+/Recipe/Release
